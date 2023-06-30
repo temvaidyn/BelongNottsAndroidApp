@@ -1,0 +1,4 @@
+#Thu Mar 16 23:22:05 GMT 2023
+base.0=/Users/aidyn/Desktop/bnottingham/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
